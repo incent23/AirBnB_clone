@@ -1,1 +1,0 @@
-                    setattr(self, name, value)
