@@ -12,6 +12,7 @@ from models.review import Review
 
 class FileStorage:
     """class FileStorage
+    
     Attributes:
         __filepath (str): file path to JSON file
         __objects (dict): dictionary of objects
